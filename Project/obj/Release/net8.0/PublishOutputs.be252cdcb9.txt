@@ -1,0 +1,5 @@
+C:\Users\Aaron\Source\Repos\Project\Project\bin\Release\net8.0\publish\Project.exe
+C:\Users\Aaron\Source\Repos\Project\Project\bin\Release\net8.0\publish\Project.dll
+C:\Users\Aaron\Source\Repos\Project\Project\bin\Release\net8.0\publish\Project.deps.json
+C:\Users\Aaron\Source\Repos\Project\Project\bin\Release\net8.0\publish\Project.runtimeconfig.json
+C:\Users\Aaron\Source\Repos\Project\Project\bin\Release\net8.0\publish\Project.pdb
