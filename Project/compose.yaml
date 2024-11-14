@@ -9,7 +9,7 @@
 # https://github.com/docker/awesome-compose
 services:
   console:
-    image: project:latest  
+    image: arktrooper/project:latest  
     build:
       context: .
       target: final
