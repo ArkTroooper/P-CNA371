@@ -1,5 +1,4 @@
 # P-CNA371
-## P-CNA371 project
 
 run the following commands in your terminal in the directory that contains the Dockerfile
 
