@@ -1,18 +1,12 @@
-# P-CNA371
+# P-CNA371 
+### compose containers from image on docker hub
 
-run the following commands in your terminal in the directory that contains the Dockerfile
+run the following commands in your terminal in the directory that contains the compose.yaml
 
-### How to build 
-`docker build -t project .`
+`docker pull arktrooper/project:latest`
 
-### How to run
 `docker compose up -d`
 
-###  How to interact with the container
-`docker container ls -a`
-#### copy `<CONTAINER ID>` of the project:latest IMAGE
-`docker attach <CONTAINER ID>`
 
-Use docker desktop to view full container output. 
 
 
