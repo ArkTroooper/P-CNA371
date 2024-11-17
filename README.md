@@ -6,6 +6,7 @@ run the following commands in your terminal in the directory that contains the c
 `docker pull arktrooper/project:latest`
 
 `docker compose up -d`
+
 Use docker desktop to view full container output.
 
 
